@@ -1,0 +1,10 @@
+[package]
+name = "adaptive-capability-architecture"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.74"
+description = "Experimental APIs for capability reachability and architectural counterfactuals"
+license = "CC-BY-4.0"
+repository = "https://github.com/muritane/adaptive-capability-architecture"
+
+[dependencies]
